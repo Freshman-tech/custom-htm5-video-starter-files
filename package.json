@@ -4,7 +4,7 @@
   "description": "Custom HTML5 Video tutorial",
   "main": "index.js",
   "scripts": {
-    "start": "npx browser-sync start -s"
+    "start": "npx browser-sync start -sw"
   },
   "keywords": [
     "javascript",
